@@ -21,5 +21,5 @@ def calculate(request):
         else:
             result = "Invalid operator"
 
-        return render(request, 'calcapp/index.html', {'result': result}) # For POST requests
-    return render(request, 'calcapp/index.html') # For initial GET requests
+        return render(request, 'calcapp/index.html', {'result': result})
+    return render(request, 'calcapp/index.html') 
