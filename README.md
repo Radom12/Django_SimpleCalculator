@@ -7,7 +7,7 @@ pip install django
 
 ### Step 2:
 Clone the repo on to your computer
-git clone https://github.com/Radom12/Django_SimpleCalculator
+git clone https://github.com/Radom12/Django_SimpleCalculator   
 cd Django_SimpleCalculator
 
 ### Step 3:
